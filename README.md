@@ -1,4 +1,4 @@
-# pandas Assignment
+# pandas-analysis-techniques
 
 This is an assignment for UNCC's data analytics bootcamp. Data for students and their test scores are provided, along with information about the schools in a district. Various data frames are created to seek trends within the data, and a brief analysis is included at the end of the jupyter notebook. Summary tables include:
 
